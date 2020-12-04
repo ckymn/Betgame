@@ -381,11 +381,7 @@ namespace Races
             this.numericUpDown2.Name = "numericUpDown2";
             this.numericUpDown2.Size = new System.Drawing.Size(120, 20);
             this.numericUpDown2.TabIndex = 26;
-            this.numericUpDown2.Value = new decimal(new int[] {
-            5,
-            0,
-            0,
-            0});
+            this.numericUpDown2.Value = new decimal(new int[] {5,0,0,0});
             // 
             // comboBox1
             // 
@@ -588,12 +584,6 @@ namespace Races
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            //dogsArray[0].Run();
-            //dogsArray[1].Run();
-            //dogsArray[2].Run();
-            //dogsArray[3].Run();
-            //  while (dogsArray[0].Run() == false && dogsArray[1].Run() == false && dogsArray[2].Run() == false && dogsArray[3].Run() == false)
-            // {
             for (int i = 0; i < dogsArray.Length; i++)
             {
 

@@ -1,0 +1,19 @@
+c:\users\sean\documents\visual studio 2012\Projects\Day At The Races\Day At The Races\bin\Debug\Day At The Races.exe.config
+c:\users\sean\documents\visual studio 2012\Projects\Day At The Races\Day At The Races\obj\Debug\Day At The Races.csprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2012\Projects\Day At The Races\Day At The Races\obj\Debug\Day_At_The_Races.Form1.resources
+c:\users\sean\documents\visual studio 2012\Projects\Day At The Races\Day At The Races\obj\Debug\Day_At_The_Races.Properties.Resources.resources
+c:\users\sean\documents\visual studio 2012\Projects\Day At The Races\Day At The Races\obj\Debug\Day At The Races.csproj.GenerateResource.Cache
+C:\Users\sean\Documents\Visual Studio 2012\Projects\Day At The Races\Day At The Races\bin\Debug\Day At The Races.exe
+C:\Users\sean\Documents\Visual Studio 2012\Projects\Day At The Races\Day At The Races\bin\Debug\Day At The Races.pdb
+C:\Users\sean\Documents\Visual Studio 2012\Projects\Day At The Races\Day At The Races\obj\Debug\Day At The Races.exe
+C:\Users\sean\Documents\Visual Studio 2012\Projects\Day At The Races\Day At The Races\obj\Debug\Day At The Races.pdb
+C:\Users\cokya\Source\Repos\A-Day-at-the-Races\Day At The Races\bin\Debug\Day At The Races.exe.config
+C:\Users\cokya\Source\Repos\A-Day-at-the-Races\Day At The Races\bin\Debug\Day At The Races.exe
+C:\Users\cokya\Source\Repos\A-Day-at-the-Races\Day At The Races\bin\Debug\Day At The Races.pdb
+C:\Users\cokya\Source\Repos\A-Day-at-the-Races\Day At The Races\obj\Debug\Day At The Races.csprojAssemblyReference.cache
+C:\Users\cokya\Source\Repos\A-Day-at-the-Races\Day At The Races\obj\Debug\Day_At_The_Races.Form1.resources
+C:\Users\cokya\Source\Repos\A-Day-at-the-Races\Day At The Races\obj\Debug\Day_At_The_Races.Properties.Resources.resources
+C:\Users\cokya\Source\Repos\A-Day-at-the-Races\Day At The Races\obj\Debug\Day At The Races.csproj.GenerateResource.cache
+C:\Users\cokya\Source\Repos\A-Day-at-the-Races\Day At The Races\obj\Debug\Day At The Races.csproj.CoreCompileInputs.cache
+C:\Users\cokya\Source\Repos\A-Day-at-the-Races\Day At The Races\obj\Debug\Day At The Races.exe
+C:\Users\cokya\Source\Repos\A-Day-at-the-Races\Day At The Races\obj\Debug\Day At The Races.pdb

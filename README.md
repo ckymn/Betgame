@@ -2,6 +2,7 @@
   This game is about the </br>
       4 of greyhound 🐕‍</br>
       3 bettors.👥 played with </br>
+### bet-game-rules       
 After the bettors bet on the greyhounds 
 they have chosen according to their money.
 The losers and the winners win or lose 
